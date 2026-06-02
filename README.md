@@ -19,17 +19,6 @@ A web application built using Python Flask and Amazon S3 that allows users to up
 * Boto3
 * Python Dotenv
 
-## Project Structure
-
-```txt
-project-folder/
-│── app.py
-│── requirements.txt
-│── .env
-│── templates/
-│── static/
-```
-
 ## Installation
 
 1. Clone the repository
